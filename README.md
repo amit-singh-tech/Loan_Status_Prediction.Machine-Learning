@@ -1,0 +1,1 @@
+we have make a machine learning model to check status of loan using svm model. svm model have accuracy of approx 80 percent on training data and accuracy of 81 percent on test data. So we conclude that our model is good .Weget to know that 422 loans get passed and 192 get failed.
